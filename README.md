@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
+  <img src="![image](https://user-images.githubusercontent.com/80336096/156511335-75459f68-7de1-47b1-a40c-a46851639459.png)">
+</div>
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
