@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sungjunghyeon&fontSize=80" />
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Junghyeon&fontSize=80" />
 </p>
 <h3 align="center"> 👋 Hello world 👋 </h3>
 <p align="center">
