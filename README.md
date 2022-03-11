@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <img src="https://user-images.githubusercontent.com/80336096/156511335-75459f68-7de1-47b1-a40c-a46851639459.png">
-</div>
+<p align="center">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sungjunghyeon&fontSize=80" />
+</p>
+<h3 align="center"> 👋 Hello world 👋 </h3>
+<p align="center">
+  I'm Junghyeon Sung, a Front-end Developer. 👩
+</p>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -37,4 +41,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
+<br />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lyrical1112&layout=compact" />
+</p>
 
+<br />
+<p align="center">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer" />
+</p>
