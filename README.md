@@ -1,5 +1,3 @@
-### Hello World!! 👋
-
 <!--
 **lyrical1112/lyrical1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
